@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Taeung's life development history
-description: Taeung's blogging material
+title: Taeung's blog
+description: Taeung's development life material
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://hataeung2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -30,7 +30,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # include: ["docs/tests/"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/sample-img.png"
+# logo: "/assets/images/sample-img.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -64,8 +64,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Taeung's github":
+    - "//github.com/hataeung2"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -90,7 +90,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
+gh_edit_link: false # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/pmarsceill/just-the-docs" # the github URL for your repo
 gh_edit_branch: "master" # the branch that your docs is served from
@@ -123,6 +123,4 @@ compress_html:
   # ignore:
   #   envs: all
 
-
-# theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs

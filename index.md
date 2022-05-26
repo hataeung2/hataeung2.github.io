@@ -2,11 +2,24 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Taeung's personal knowledge database
+- Name: Taeung, Ha
+- Email: hataeung2@hotmail.com(github.com), hataeung2@gmail.com, aha3546@naver.com
+
+## interest
+- Modern C++
+- Test code
+- Simple code, Productivity and Human error
+- Data management, Database
+- Electronics
+- Robots
+- Graphics
+
+
+<!-- # Focus on writing good documentation
 {: .fs-9 }
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
@@ -60,9 +73,6 @@ $ bundle exec jekyll serve
 
 If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
 
-### Configure Just the Docs
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 
 ---
 
@@ -93,4 +103,4 @@ email, or any other method with the owners of this repository before making a ch
 
 Just the Docs is committed to fostering a welcoming community.
 
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository. -->
