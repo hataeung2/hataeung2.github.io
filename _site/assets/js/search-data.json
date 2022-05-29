@@ -59,30 +59,78 @@
     "url": "http://localhost:4000/docs/portfolio/2018-peoplecounter/",
     "relUrl": "/docs/portfolio/2018-peoplecounter/"
   },"10": {
+    "doc": "2nd-Battery Machine, 2019",
+    "title": "Second-Battery Production(Cathode surface coater part) motor control system, 2019",
+    "content": "* Precise motor control for \"Roll to Roll\" coater system -&gt; Motor speed PID control by comparing roll diameter and tension . Jul 2019 ~ Feb 2020 Worked with PnT for SK Materials 2nd battery production system. In order to reduce their production cost and to earn technological know-how, PnT decided to buy “My company” motor control system. I didn’t very much know about motor control-related work because I just experienced software integration before. But I was actually interested in the mechatronics so I tried and finally achieved. The problem was, in this period, it was like the real research and development because NO ONE taught me how to work but just gave me hard torturing. haha. Fortunately, I was able to do this project by myself(about 80%. for remaining 20%, my Dr. senior had done like pretending OJT something), so I finally could be free from the senior person torturing me. Maybe he thought I could not make the project? Anyhow, he stopped bothering me after this project had done. | Developer: Taeung Ha | Actual time for development: about 6 months | Contribution rate: 80% | Technologies used: Codesys, Electric parts, Electronics(Noise), Control technologies(PID, etc.) | . ",
+    "url": "http://localhost:4000/docs/portfolio/2019-2ndbatterycoater/#second-battery-productioncathode-surface-coater-part-motor-control-system-2019",
+    "relUrl": "/docs/portfolio/2019-2ndbatterycoater/#second-battery-productioncathode-surface-coater-part-motor-control-system-2019"
+  },"11": {
+    "doc": "2nd-Battery Machine, 2019",
+    "title": "2nd-Battery Machine, 2019",
+    "content": " ",
+    "url": "http://localhost:4000/docs/portfolio/2019-2ndbatterycoater/",
+    "relUrl": "/docs/portfolio/2019-2ndbatterycoater/"
+  },"12": {
+    "doc": "Servo Press, 2019",
+    "title": "Servo Press for SIMPAC, 2019",
+    "content": "* Precise motor control for \"ServoPress\" system -&gt; Motor Position Control with Profile . Apr 2019 ~ Nov 2019 It was an internal project for selling Motor, Drive, and Software. Firstly I was forced by my Dr. senior to do this job, and he seemed like enjoying harassment, nevertheless I was very enthusiastic about having this project continued because I felt I learn and I tried to evolve. Actually, after 2 months of studying this, I realized my Dr. senior knew nothing about the project and wanted to show off his knowledge only. Sad. But still, it was fun to learn by myself from the internet and book. Finally, I got to know much better about “Servo Press” than Dr. senior. But I pretended I knew nothing to survive. | Developer: Taeung Ha | Actual time for development: about 6 months | Contribution rate: 100% | Technologies used: Codesys, PID, Mathematics, Control Engineering Thesis | . ",
+    "url": "http://localhost:4000/docs/portfolio/2019-servopress/#servo-press-for-simpac-2019",
+    "relUrl": "/docs/portfolio/2019-servopress/#servo-press-for-simpac-2019"
+  },"13": {
+    "doc": "Servo Press, 2019",
+    "title": "Servo Press, 2019",
+    "content": " ",
+    "url": "http://localhost:4000/docs/portfolio/2019-servopress/",
+    "relUrl": "/docs/portfolio/2019-servopress/"
+  },"14": {
+    "doc": "Semi. Motor control, 2020",
+    "title": "Semiconductor Production Machine Motor Control System, 2020",
+    "content": "* Motor Start/Stop/Idle/... StateMachine control customizing -&gt; Due to high level controller's interface limitations Motor Drive's function customizing . Jul 2020 ~ Sep 2020 Worked with Omron for Samsung Electronics. The engineer at Omron, he didn’t want to change his program for reliability. Or I could guess he didn’t know how to adapt “My company” Motor Drive to Omron PLC interfacing. We knew that it was big volume sales so I had to customize(trick) “My company” Motor Drive’s StateMachine sequence. By default, it was impossible to control mode change while Motor is Powered-up. For example, Speed control Mode to Torque control Mode or vice versa, it could make Motor Drive behavior unsafe. So I did some study and modify the default program. The trick was, by custom software I composed, when we need to change control mode, Just made Motor Drive Power-down and Power-up so that the Drive could change the mode. | Developer: Taeung Ha | Actual time for development: about 2 months | Contribution rate: 100% | Technologies used: Codesys(ST programming) | . ",
+    "url": "http://localhost:4000/docs/portfolio/2020-semiconductor-production-machine/#semiconductor-production-machine-motor-control-system-2020",
+    "relUrl": "/docs/portfolio/2020-semiconductor-production-machine/#semiconductor-production-machine-motor-control-system-2020"
+  },"15": {
+    "doc": "Semi. Motor control, 2020",
+    "title": "Semi. Motor control, 2020",
+    "content": " ",
+    "url": "http://localhost:4000/docs/portfolio/2020-semiconductor-production-machine/",
+    "relUrl": "/docs/portfolio/2020-semiconductor-production-machine/"
+  },"16": {
+    "doc": "Semi. Machine SI, 2021",
+    "title": "Semiconductor Pre-process annealing machine, 2021 ~",
+    "content": "* System Integration * Remastering . Jan 2021 ~ Now system requirement collecting due to almost nothing was remaining in legacy. | Developer: Taeung Ha | Actual time for development: ongoing | Contribution rate: 100% | Technologies used: studying | . ",
+    "url": "http://localhost:4000/docs/portfolio/2021-semiconductor-pre-process-machine/#semiconductor-pre-process-annealing-machine-2021-",
+    "relUrl": "/docs/portfolio/2021-semiconductor-pre-process-machine/#semiconductor-pre-process-annealing-machine-2021-"
+  },"17": {
+    "doc": "Semi. Machine SI, 2021",
+    "title": "Semi. Machine SI, 2021",
+    "content": " ",
+    "url": "http://localhost:4000/docs/portfolio/2021-semiconductor-pre-process-machine/",
+    "relUrl": "/docs/portfolio/2021-semiconductor-pre-process-machine/"
+  },"18": {
     "doc": 2022,
     "title": 2022,
     "content": ". ",
     "url": "http://localhost:4000/docs/2022/",
     "relUrl": "/docs/2022/"
-  },"11": {
+  },"19": {
     "doc": "Home",
     "title": "Taeung’s personal knowledge database",
     "content": ". | Name: Taeung, Ha | Email: hataeung2@hotmail.com(github.com), hataeung2@gmail.com, aha3546@naver.com | . ",
     "url": "http://localhost:4000/#taeungs-personal-knowledge-database",
     "relUrl": "/#taeungs-personal-knowledge-database"
-  },"12": {
+  },"20": {
     "doc": "Home",
     "title": "interest",
     "content": ". | Modern C++ | Test code | Simple code, Productivity and Human error | Data management, Database | Electronics | Robots | Graphics | . ",
     "url": "http://localhost:4000/#interest",
     "relUrl": "/#interest"
-  },"13": {
+  },"21": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"14": {
+  },"22": {
     "doc": "Portfolio",
     "title": "Portfolio",
     "content": " ",
