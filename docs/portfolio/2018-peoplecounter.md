@@ -39,7 +39,7 @@ DBMS는 Sqlite로 선택하였는데, 어플리케이션 사용자가 많지 않
     - 이마트: 단순한 데이터 처리, 표출만을 위한 버전(약 150개 점포 설치(예정))
     - 스타필드시티: 기간, 그룹별 분석 기능을 추가한 버전
 
-![sample img](/assets/images/portfolio-2017-lms.jpg)
+<!-- ![sample img](/assets/images/portfolio-2018-peoplecounter.jpg) -->
 
 - Developer: Taeung Ha
 - Actual time for development: about 3 months for core part
