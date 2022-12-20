@@ -13,9 +13,7 @@ nav_order: 8
 Jul 2019 ~ Feb 2020
 Worked with PnT for SK Materials 2nd battery production system.
 In order to reduce their production cost and to earn technological know-how, PnT decided to buy "My company" motor control system. 
-I didn't very much know about motor control-related work because I just experienced software integration before. But I was actually interested in the mechatronics so I tried and finally achieved. The problem was, in this period, it was like the real research and development because NO ONE taught me how to work but just gave me hard torturing. haha.
-Fortunately, I was able to do this project by myself(about 80%. for remaining 20%, my Dr. senior had done like pretending OJT something), so I finally could be free from the senior person torturing me. Maybe he thought I could not make the project? Anyhow, he stopped bothering me after this project had done.
-
+I didn't very much know about motor control-related work because I just experienced software integration before. But I was actually interested in the mechatronics so I tried and finally achieved.
 
 ![sample img](/assets/images/portfolio-2019-2ndbatterycoater.png)
 
