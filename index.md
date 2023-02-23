@@ -7,7 +7,7 @@ permalink: /
 
 # Taeung's personal knowledge database
 - Name: Taeung, Ha
-- Email: hataeung2@hotmail.com(github.com), hataeung2@gmail.com, aha3546@naver.com
+- Email: hataeung2@gmail.com, aha3546@naver.com
 
 ## interest
 - Modern C++
