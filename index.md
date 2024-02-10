@@ -5,11 +5,11 @@ nav_order: 1
 permalink: /
 ---
 
-# Taeung's personal knowledge database
+# Taeung's Personal History, Database
 - Name: Taeung, Ha
-- Email: hataeung2@gmail.com, aha3546@naver.com
+- Email: hataeung2@gmail.com, aha3546@outlook.com, aha3546@naver.com
 
-## interest
+## Interest
 - Modern C++
 - Test code
 - Simple code, Productivity and Human error

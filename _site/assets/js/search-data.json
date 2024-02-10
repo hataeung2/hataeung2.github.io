@@ -96,10 +96,10 @@
     "relUrl": "/docs/portfolio/2020-semiconductor-production-machine/"
   },"16": {
     "doc": "Semi. Machine SI, 2021 ~",
-    "title": "Semiconductor Pre-process annealing machine, 2021 ~",
-    "content": "* System Integration * Remastering. * phase1: Software Modularization and test on legacy system (planning 2021~2023) * phase2: Newly development the core part concept * phase3: Reusable function framework prepare . 2021 ~ . Now system requirement collecting due to almost nothing was remaining in legacy. 2022 ~ . working on Remastering phase1 . | Developer: Taeung Ha | Actual time for development: ongoing | Contribution rate: 100% | Technologies used: studying | . ",
-    "url": "https://hataeung2.github.io/docs/portfolio/2021-semiconductor-pre-process-machine/#semiconductor-pre-process-annealing-machine-2021-",
-    "relUrl": "/docs/portfolio/2021-semiconductor-pre-process-machine/#semiconductor-pre-process-annealing-machine-2021-"
+    "title": "Semiconductor Pre-process annealing machine, 2023 ~",
+    "content": "* System Integration * Remastering. * phase1: Software Modularization and test on legacy system (planning 2021~2023) * phase2: Newly development the core part concept * phase3: Reusable function framework prepare . 2021 ~ 2023 . System requirement collecting due to almost nothing was remaining in legacy. Focused on supporting the organization to be thrived / Customer specific requirements applying into the Legacy system. 2024 ~ . Remastering phase 1.5 . * Modularization * Newer System Platform Designing &amp; Implementing . | Developer: Taeung Ha | Actual time for development: ongoing | Contribution rate: 33% // hired new SWEs in 2024 | Technologies used: C++, C#, RDBMS, etc. | . ",
+    "url": "https://hataeung2.github.io/docs/portfolio/2021-semiconductor-pre-process-machine/#semiconductor-pre-process-annealing-machine-2023-",
+    "relUrl": "/docs/portfolio/2021-semiconductor-pre-process-machine/#semiconductor-pre-process-annealing-machine-2023-"
   },"17": {
     "doc": "Semi. Machine SI, 2021 ~",
     "title": "Semi. Machine SI, 2021 ~",
@@ -107,20 +107,20 @@
     "url": "https://hataeung2.github.io/docs/portfolio/2021-semiconductor-pre-process-machine/",
     "relUrl": "/docs/portfolio/2021-semiconductor-pre-process-machine/"
   },"18": {
-    "doc": 2023,
-    "title": 2023,
+    "doc": 2024,
+    "title": 2024,
     "content": ". ",
-    "url": "https://hataeung2.github.io/docs/2022/",
-    "relUrl": "/docs/2022/"
+    "url": "https://hataeung2.github.io/docs/2024/",
+    "relUrl": "/docs/2024/"
   },"19": {
     "doc": "Home",
-    "title": "Taeung’s personal knowledge database",
-    "content": ". | Name: Taeung, Ha | Email: hataeung2@gmail.com, aha3546@naver.com | . ",
-    "url": "https://hataeung2.github.io/#taeungs-personal-knowledge-database",
-    "relUrl": "/#taeungs-personal-knowledge-database"
+    "title": "Taeung’s Personal History, Database",
+    "content": ". | Name: Taeung, Ha | Email: hataeung2@gmail.com, aha3546@outlook.com, aha3546@naver.com | . ",
+    "url": "https://hataeung2.github.io/#taeungs-personal-history-database",
+    "relUrl": "/#taeungs-personal-history-database"
   },"20": {
     "doc": "Home",
-    "title": "interest",
+    "title": "Interest",
     "content": ". | Modern C++ | Test code | Simple code, Productivity and Human error | Data management, Database | Electronics | Robots | Graphics | . ",
     "url": "https://hataeung2.github.io/#interest",
     "relUrl": "/#interest"
