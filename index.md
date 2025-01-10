@@ -6,17 +6,18 @@ permalink: /
 ---
 
 # Taeung's Personal History, Database
-- Name: Taeung, Ha
-- Email: hataeung2@gmail.com, aha3546@outlook.com, aha3546@naver.com
+- Name: Taeung (Ten) Ha
+- Email: hataeung2@gmail.com, aha3546@outlook.com
 
 ## Interest
 - Modern C++
-- Test code
-- Simple code, Productivity and Human error
+- Test code, Simple code, Productivity and Human error
 - Data management, Database
 - Electronics
 - Robots
-- Graphics
+- Graphics, Data Visualization
+- AI
+- and Capitalism
 
 
 <!-- # Focus on writing good documentation

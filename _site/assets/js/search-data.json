@@ -96,41 +96,35 @@
     "relUrl": "/docs/portfolio/2020-semiconductor-production-machine/"
   },"16": {
     "doc": "Semi. Machine SI, 2021 ~",
-    "title": "Semiconductor Pre-process annealing machine, 2023 ~",
-    "content": "* System Integration * Remastering. * phase1: Software Modularization and test on legacy system (planning 2021~2023) * phase2: Newly development the core part concept * phase3: Reusable function framework prepare . 2021 ~ 2023 . System requirement collecting due to almost nothing was remaining in legacy. Focused on supporting the organization to be thrived / Customer specific requirements applying into the Legacy system. 2024 ~ . Remastering phase 1.5 . * Modularization * Newer System Platform Designing &amp; Implementing . | Developer: Taeung Ha | Actual time for development: ongoing | Contribution rate: 33% // hired new SWEs in 2024 | Technologies used: C++, C#, RDBMS, etc. | . ",
-    "url": "https://hataeung2.github.io/docs/portfolio/2021-semiconductor-pre-process-machine/#semiconductor-pre-process-annealing-machine-2023-",
-    "relUrl": "/docs/portfolio/2021-semiconductor-pre-process-machine/#semiconductor-pre-process-annealing-machine-2023-"
-  },"17": {
-    "doc": "Semi. Machine SI, 2021 ~",
     "title": "Semi. Machine SI, 2021 ~",
-    "content": " ",
+    "content": "2025 ~ . Module refactoring . Brand New Process Controller Prototyping . 2023 ~ . WVG(Wafer Vapor Generator) Control System Development . - Developer: Taeung Ha - Actual time for development: about 3 months - Contribution rate: 100% - Technologies used: Codesys, Mathematics, Control Engineering Thesis . Legacy Control System Maintenance . * Control Zone Temperature Uniformity Improvement - Feasibility check by logic development &amp; tool test #### Remastering phase 1.5 (drop) * Modularization * Newer Automation System Platform Designing &amp; Implementing . 2021 ~ 2023 . System requirement collecting due to almost nothing was remaining in legacy. Focused on supporting the organization to be thrived / Customer specific requirements applying into the Legacy system. ",
     "url": "https://hataeung2.github.io/docs/portfolio/2021-semiconductor-pre-process-machine/",
     "relUrl": "/docs/portfolio/2021-semiconductor-pre-process-machine/"
-  },"18": {
-    "doc": 2024,
-    "title": 2024,
+  },"17": {
+    "doc": 2025,
+    "title": 2025,
     "content": ". ",
-    "url": "https://hataeung2.github.io/docs/2024/",
-    "relUrl": "/docs/2024/"
-  },"19": {
+    "url": "https://hataeung2.github.io/docs/2025/",
+    "relUrl": "/docs/2025/"
+  },"18": {
     "doc": "Home",
     "title": "Taeung’s Personal History, Database",
-    "content": ". | Name: Taeung, Ha | Email: hataeung2@gmail.com, aha3546@outlook.com, aha3546@naver.com | . ",
+    "content": ". | Name: Taeung (Ten) Ha | Email: hataeung2@gmail.com, aha3546@outlook.com | . ",
     "url": "https://hataeung2.github.io/#taeungs-personal-history-database",
     "relUrl": "/#taeungs-personal-history-database"
-  },"20": {
+  },"19": {
     "doc": "Home",
     "title": "Interest",
-    "content": ". | Modern C++ | Test code | Simple code, Productivity and Human error | Data management, Database | Electronics | Robots | Graphics | . ",
+    "content": ". | Modern C++ | Test code, Simple code, Productivity and Human error | Data management, Database | Electronics | Robots | Graphics, Data Visualization | AI | and Capitalism | . ",
     "url": "https://hataeung2.github.io/#interest",
     "relUrl": "/#interest"
-  },"21": {
+  },"20": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "https://hataeung2.github.io/",
     "relUrl": "/"
-  },"22": {
+  },"21": {
     "doc": "Portfolio",
     "title": "Portfolio",
     "content": " ",
