@@ -6,8 +6,8 @@ nav_order: 1
 ---
 
 ## Diablo2, 2013
-During the game academy.
-I made it without any fine-tuned experience, but because of it, I made it with a burning passion.
+A project from my time at game academy.
+Although I lacked experience back then, I poured my heart and soul into building this.
 
 
 ![sample img](/assets/images/portfolio-2013-diablo2.jpg)

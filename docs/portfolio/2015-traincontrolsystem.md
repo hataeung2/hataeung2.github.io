@@ -7,11 +7,9 @@ nav_order: 2
 
 ## Train Control System, 2015
     1) Man Machine Interface.
-    2) and Communication simulator with TCP
+    2) Communication simulator with TCP.
 
-First project that I had followed practical traditional development process.
-Felt difficulties of being under pressure for meeting schedules and being a developer in a team.
-Also had experienced the hell of the reviewing documents.
+My first project following a proper development process. It taught me the real-world pressures of meeting deadlines and working within a team. I also got a taste of 'documentation hell' through rigorous review processes.
 
 [Korean]
 실제 개발  프로세스를 따라 만들었던 첫번째 프로젝트.

@@ -6,14 +6,13 @@ nav_order: 8
 ---
 
 
-## Second-Battery Production(Cathode surface coater part) motor control system, 2019
-    * Precise motor control for "Roll to Roll" coater system
-    -> Motor speed PID control by comparing roll diameter and tension 
+## Second-Battery Production (Cathode surface coater part) motor control system, 2019
+    * Precise motor control for "Roll to Roll" coater system.
+    -> Motor speed PID control by comparing roll diameter and tension.
   
 Jul 2019 ~ Feb 2020
-Worked with PnT for SK Materials 2nd battery production system.
-In order to reduce their production cost and to earn technological know-how, PnT decided to buy "My company" motor control system. 
-I didn't very much know about motor control-related work because I just experienced software integration before. But I was actually interested in the mechatronics so I tried and finally achieved.
+
+A collaboration with PnT for SK Materials' secondary battery production. PnT adopted our motor control system to cut costs and gain know-how. I was new to motor control but had a strong interest in mechatronics, so I dove in and successfully delivered the system.
 
 ![sample img](/assets/images/portfolio-2019-2ndbatterycoater.png)
 

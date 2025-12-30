@@ -6,12 +6,9 @@ nav_order: 3
 ---
 
 ## Busan-Gimhae Light Train WCS Reset Ctrler, 2015
-Interface controller between Third party product(using RS422) 
-which accesses a bunch of relays via the way of "multi-drop".
-Proceeded all by myself except system wiring plan and third party product choosing. 
-I had even supported customer site setup. 
-May be 80% or more contribution level would be by my own. 
-Just like personal project.
+An interface controller between a third-party product (using RS422) and a system accessing multiple relays via "multi-drop".
+
+I handled nearly every aspect of this project—from study to development—except for system wiring and third-party product selection. I even went on-site to support the setup. It felt almost like a personal project, with my contribution exceeding 80%.
 
 [Korean]
 시리얼 통신 사용하는 기성 제품과 소프트웨어 통신 연동 하여 릴레이 접점 상태를 읽고, 제어할 수 있게 함. 

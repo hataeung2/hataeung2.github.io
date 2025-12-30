@@ -6,11 +6,11 @@ nav_order: 4
 ---
 
 
-## R&D, ERTMS(European Railroad Train Management System) DMI, 2016
-    1) System requiements collection from Europe Traing Signal Standard
-    2) DMI(Driver Machin Interface) specification documentation and implementation
+## R&D, ERTMS (European Railroad Train Management System) DMI, 2016
+    1) System requirement collection from Europe Train Signal Standard.
+    2) DMI (Driver Machine Interface) specification, documentation, and implementation.
 
-The scope of the entire project was to develop the entire computer system on top of the train, and among them, I had played the role of a practical project leader in the development of a subsystem that monitors and controls the state of the onboard equipment computer. (Hardware is an off-the-shelf product) The function was simple. Receives the train status and displays it on the screen, and transmits the engineer's control commands. The project was very clear. I had to implement specifications because it was written very clearly down even to the UI button pixels.
+This project involved developing the onboard computer system for trains. I served as the de facto project leader for the subsystem that monitors and controls the equipment (using off-the-shelf hardware). The functionality was straightforward: receiving train status, displaying it, and transmitting driver commands. The specs were incredibly detailed—down to the UI button pixels—so it was mostly a matter of precise implementation.
 
 Technology chosen for this project: Open GL + SDL2
 

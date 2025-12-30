@@ -7,18 +7,21 @@ nav_order: 6
 
 
 ## People Counter System Frontend and Hardware Interface, 2018
-    1) Frontend(Angular6+)
-    2) Hardware Interface(C++, Windows)
+    1) Frontend (Angular 6+).
+    2) Hardware Interface (C++, Windows).
   
 May 2018 ~ Apr 2019
-Called people counter. In this system, there are 3 main parts, camera sensor, data processor and user interface. I actually re-developed user interface for meeting customers' evolving requrirements for data analysis for people in/out count in a building.
-The basic purpose of the people counting system is as follows.
 
-“Aggregating people entering and leaving a building or an area to create data that can be used for analytics tailored to customer needs.”
+A system to count people entering and leaving a building for data analytics. Although based on existing software, I completely redeveloped the user interface to meet evolving customer needs.
 
-The people counting system basically consists of a camera sensor that recognizes and counts the direction of movement of an actual person, a data processing process that connects to the camera sensor and reads and stores data in a database, a web server that reads and provides data requested through the user interface, and a web client that processes the read data and displays it to user. Customer also can add more interface for storing data to another location. There are some subsidiary processes too. 
-It was copy software from existing one but I can value it has infinite possibility to be developed compared to existing package.
-DBMS was choosed to SQLite3 because there are no many users and I had not used this technology before. But even though concurrent users are less than 5, SQLite just allows one user at once and the data read/write rate was high, I had to be very careful to aviod racing between threads.
+The core purpose of the system is:
+"Aggregating people entering and leaving a building or area to create actionable data for analytics."
+
+The system consists of camera sensors for detecting movement, a data processor for DB storage, a web server, and a web client for visualization. It also supports external database integration.
+
+While it started as a replica of an existing solution, I believe it has far greater potential for development.
+
+I chose SQLite for the DBMS. Since the user base was small (<5 concurrent users), it was a good opportunity to learn a new technology. However, given SQLite's single-writer limitation and the high frequency of read/write operations, I had to be extremely careful with thread safety to avoid race conditions.
 
 This system was delivered with 1 year warranty contract to
 - E Mart: Simple version(planned to install 150 buildings)
